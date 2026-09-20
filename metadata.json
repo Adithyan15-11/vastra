@@ -1,0 +1,6 @@
+{
+  "name": "VASTRA",
+  "description": "Vision-Assisted Smart Textile Recognition and Analysis - 5th-Semester B.Tech Computer Vision Platform",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
